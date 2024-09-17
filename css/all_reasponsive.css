@@ -1,0 +1,1632 @@
+@media screen and (max-width: 1799px) {
+    /* .contact-office-detail {
+      padding: 120px 0;
+    } */
+  
+    .section-footer .container {
+      padding: 0 60px;
+    }
+  
+    .contact-office-col {
+      margin-bottom: 60px;
+    }
+  
+    .columns.contact-office-cols {
+      margin: 0 -60px -60px;
+    }
+  
+    .section-title h1,
+    .section-title h2 {
+      font-size: 50px;
+      line-height: 58px;
+    }
+  }
+  
+  @media screen and (max-width: 1599px) {
+  
+    /* .contact-office-detail {
+      padding: 60px 0;
+    } */
+    
+    #home .footer-img {
+    height: 43vh;
+  }
+  #home .section-footer .container {
+    height: 57vh;
+  }
+    
+    #home .section-footer .container {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+  
+    .footer-detail .section-title h2 {
+      font-size: 34px;
+      line-height: 44px;
+    }
+  
+    .contact-office-item h4 {
+      font-size: 20px;
+    }
+  
+    #home .copyright-bar {
+      margin-top: 15px;
+    }
+  
+    #home .section-footer .social {
+      margin-top: 10px;
+    }
+  
+    #header-primary-menu {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+  
+    .project-casestudy-logo img {
+      max-height: 110px;
+      max-width: 120px;
+    }
+  
+    .our-projects-logo:before {
+      top: -40px;
+      left: -15px;
+    }
+  
+    .footer-logo {
+      max-width: 440px;
+      margin: 0 auto 80px;
+    }
+  
+    .our-services-wrapper h4,
+    .our-services-desc h4 {
+      font-size: 22px;
+    }
+  
+    .theme-padding {
+      padding-left: 80px;
+      padding-right: 80px;
+    }
+  
+    .contact-office-item h4 {
+      margin-bottom: 6px;
+    }
+  
+    h5 {
+      font-size: 22px;
+      line-height: 28px;
+    }
+  
+    .mb-50 {
+      margin-bottom: 30px;
+    }
+  
+    .logo-tagline h5 {
+      font-size: 18px;
+    }
+  
+    .identify-problem-detail {
+      margin-bottom: 40px;
+    }
+  
+    .theme-project-detail-page section,
+    .theme-project-detail-page .section {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+  
+    .theme-project-detail-page .section-banner {
+      padding-top: 140px;
+    }
+  
+    .theme-project-detail-page .section-banner .section-title {
+      margin-bottom: 40px;
+    }
+  
+    .our-projects-title {
+      font-size: 24px;
+    }
+  
+    .services-block h4 {
+      font-size: 22px;
+    }
+  
+    .our-team-detail .section-title {
+      margin-bottom: 60px;
+    }
+  
+    .team-member-desc span {
+      font-size: 18px;
+    }
+  
+    .team-member-desc p {
+      font-size: 16px;
+    }
+  
+    h4 {
+      font-size: 24px;
+    }
+  
+    #section-about-us-founder:before {
+      width: 400px;
+      height: 400px;
+    }
+  
+    .title-tagline {
+      font-size: 16px;
+    }
+  
+    .about-us-counter-col {
+      width: 33.33%;
+      flex: 0 0 33.33%;
+      margin-bottom: 40px;
+    }
+  
+    .about-us-counter-cols {
+      flex-wrap: wrap;
+      margin-bottom: -40px !important;
+    }
+  
+    .about-us-counter-item:before {
+      width: 90px;
+      height: 90px;
+      top: -15px;
+    }
+  
+    .theme-inner-page .theme-banner-text {
+      bottom: 60px;
+    }
+  
+    .contact-office-item h3 {
+      font-size: 24px;
+    }
+  
+    .fs-18 {
+      font-size: 16px;
+    }
+  
+    .contact-office-item span {
+      font-size: 14px;
+      display: block;
+    }
+  
+    .columns.contact-office-cols {
+      margin: 0 -30px -30px;
+    }
+  
+    .contact-office-col {
+      padding: 0 30px;
+      margin-bottom: 30px;
+    }
+  
+    .know-more-btn span {
+      font-size: 22px;
+    }
+  
+    .know-more-btn-icon {
+      width: 25px;
+      height: 25px;
+    }
+  
+    /* .theme-banner-text.meet-conversions-detail {
+      height: 135px;
+    } */
+  
+    /* .meet-conversions-img img {
+      height: calc(100vh - 135px);
+    } */
+  
+    #header-primary-menu {
+      background-position: bottom right;
+    }
+  
+    .header__menu-link {
+      font-size: 22px;
+    }
+  
+    .social-item a {
+      width: 32px;
+      height: 32px;
+    }
+  
+  
+    .header-contact-desc a {
+      padding: 0 10px 0 0;
+      margin: 0 10px 0 0;
+      font-size: 18px;
+    }
+  
+    h3 {
+      font-size: 30px;
+      line-height: 38px;
+    }
+  
+    section,
+    .section {
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+  
+    .section-title h1,
+    .section-title h2 {
+      font-size: 44px;
+      line-height: 54px;
+    }
+  
+    .section-title p {
+      font-size: 20px;
+      line-height: 26px;
+    }
+  
+    .theme-banner-text {
+      max-width: 1000px;
+    }
+  
+    .dots li a::after {
+      font-size: 18px;
+      line-height: 18px;
+    }
+  
+    #home .theme-scale-element {
+      bottom: -180px;
+    }
+  }
+  
+  @media screen and (max-width: 1408px) {
+    .footer-logo {
+      max-width: 380px;
+      margin: 20px auto 40px;
+    }
+  
+    /* .sticky-btn-enquire {
+      top: 11px;
+      right: 170px;
+    } */
+  
+    /* .contact-office-detail {
+      padding: 40px 0;
+    } */
+  
+    .our-services-wrapper {
+      padding: 25px;
+    }
+  
+    .mb-100 {
+      margin-bottom: 70px;
+    }
+  
+    .theme-padding {
+      padding-left: 60px;
+      padding-right: 60px;
+    }
+  
+    h5 {
+      font-size: 20px;
+      line-height: 26px;
+    }
+  
+    .theme-project-detail-page .section-banner {
+      padding-top: 110px;
+    }
+  
+    .team-member-img {
+      width: 260px;
+      height: 260px;
+    }
+  
+    .about-us-founder-detail {
+      max-width: 1070px;
+    }
+  
+    .founder-detail {
+      padding-bottom: 40px;
+    }
+  
+    .theme-inner-page .theme-banner-text {
+      padding: 0 60px;
+    }
+  
+    .theme-inner-page .theme-banner-text {
+      bottom: 40px;
+    }
+  
+    .contact-office-item h3 {
+      font-size: 22px;
+    }
+  
+    .section-footer .container {
+      padding: 0 30px;
+    }
+  
+    #header-primary-menu {
+      padding-left: 60px !important;
+      padding-right: 60px !important;
+      max-width: 350px;
+    }
+  
+    .theme-logo img {
+      height: 40px;
+    }
+  
+    .section-title h1,
+    .section-title h2 {
+      font-size: 36px;
+      line-height: 44px;
+    }
+  }
+  
+  @media screen and (max-width: 1216px) {
+  
+    .contact-office-detail {
+      /* padding: unset; */
+      /* padding-bottom: 30px; */
+    }
+  
+    #home .footer-img {
+      height: 40vh;
+    }
+  
+    #home .section-footer .container {
+      height: 60vh;
+    }
+  
+    .our-services-wrapper {
+      padding: 10px;
+    }
+  
+    .our-services-wrapper h4,
+    .our-services-desc h4 {
+      font-size: 20px;
+    }
+  
+    .theme-padding {
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+  
+    .logo-tagline h5 {
+      font-size: 16px;
+    }
+  
+    .identify-problem-detail {
+      margin-bottom: 30px;
+    }
+  
+    .project-services-logo img {
+      max-height: 80px;
+    }
+  
+    .project-services-items h3 {
+      margin-bottom: 3px;
+    }
+  
+    .mb-6 {
+      margin-bottom: 30px !important;
+    }
+  
+    .services-block h4 {
+      font-size: 20px;
+    }
+  
+    .services-block {
+      padding: 30px 0;
+    }
+  
+    .services-block.block-left,
+    .services-block.block-right {
+      max-width: 700px;
+    }
+  
+    .team-member-desc span {
+      font-size: 16px;
+    }
+  
+    .team-member-desc p {
+      font-size: 14px;
+    }
+  
+    .our-team-detail .section-title {
+      margin-bottom: 40px;
+    }
+  
+    .gap-2>.column {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  
+    .about-us-founder-detail {
+      padding-right: 30px !important;
+    }
+  
+    h4 {
+      font-size: 22px;
+    }
+  
+    .gap-2 {
+      margin-left: -20px !important;
+      margin-right: -20px !important;
+    }
+  
+    .about-us-philosophy-detail {
+      max-width: 700px;
+    }
+  
+    .about-us-philosophy-detail {
+      margin-bottom: 20px;
+    }
+  
+    .counter-block h3 {
+      font-size: 24px;
+    }
+  
+    body {
+      font-size: 14px;
+    }
+  
+    .contact-office-item span {
+      font-size: 13px;
+      line-height: 18px;
+      display: block;
+    }
+  
+    .know-more-btn span {
+      font-size: 16px;
+    }
+  
+    /* .theme-banner-text.meet-conversions-detail {
+      height: 105px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+    } */
+  
+    /* .meet-conversions-img img {
+      height: calc(100vh - 105px);
+    } */
+  
+    .know-more-btn-icon {
+      width: 22px;
+      height: 22px;
+    }
+  
+    h3 {
+      font-size: 28px;
+      line-height: 36px;
+    }
+  
+    .header-contact-desc a {
+      font-size: 16px;
+    }
+  
+    .header__menu-link {
+      font-size: 20px;
+    }
+  
+    #header-primary-menu {
+      padding-left: 40px !important;
+      padding-right: 40px !important;
+    }
+  
+    section,
+    .section {
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+  
+    .footer-detail .section-title h2,
+    .section-title h1,
+    .section-title h2 {
+      font-size: 32px;
+      line-height: 38px;
+    }
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .footer-logo {
+      max-width: 350px;
+      margin: 0 auto 30px;
+    }
+  
+    /* .contact-office-detail {
+      padding: 60px 0;
+    } */
+  
+    /* .dots li:nth-child(9) a::after {
+      display: none;
+    } */
+  
+    .our-services-col:nth-child(2),
+    .our-services-col:nth-child(4),
+    .our-services-col:nth-child(8) {
+      border-right: unset;
+    }
+  
+    .our-services-col:nth-child(3) {
+      border-right: 1px solid #D7D7D7;
+    }
+  
+    .our-services-col:nth-child(7),
+    .our-services-col:nth-child(8) {
+      border-bottom: 1px solid #D7D7D7;
+    }
+  
+    /* .our-services-col:nth-child(9) {
+      border-right: 1px solid #D7D7D7;
+    } */
+    .our-services-cols {
+      justify-content: center;
+    }
+  
+    .mb-100 {
+      margin-bottom: 50px;
+    }
+  
+    .header-contact-desc {
+      margin-top: 40px;
+    }
+  
+    .header-menu-logo {
+      max-width: 180px;
+    }
+  
+    #header1__menu1 {
+      gap: 20px;
+    }
+  
+    p {
+      line-height: 22px;
+    }
+  
+    .contact-office-item h4 {
+      margin-bottom: 2px;
+    }
+  
+    h3 {
+      font-size: 26px;
+      line-height: 34px;
+    }
+  
+  
+    .sticky-btn-enquire {
+      font-size: 13px !important;
+      left: -55px;
+    }
+  
+    .project-services-col:first-child {
+      width: 300px;
+      flex: 0 0 300px;
+    }
+  
+    .project-services-col:last-child {
+      width: calc(100% - 300px);
+      flex: 0 0 calc(100% - 300px);
+    }
+  
+    .theme-project-detail-page .section-banner .section-title {
+      margin-bottom: 20px;
+    }
+  
+    .contact-us-form-col:last-child {
+      width: 55%;
+      flex: 0 0 55%;
+    }
+  
+    .contact-us-form-col:first-child {
+      width: 45%;
+      flex: 0 0 45%;
+    }
+  
+    .gap-3>.column {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  
+    .gap-3 {
+      margin-left: -20px !important;
+      margin-right: -20px !important;
+    }
+  
+    .our-projects-title {
+      font-size: 20px;
+      padding: 10px;
+    }
+  
+    .our-team-cols {
+      justify-content: center;
+    }
+  
+    .mb-5 {
+      margin-bottom: 20px !important;
+    }
+  
+    h4 {
+      font-size: 20px;
+    }
+  
+    .founder-detail {
+      padding-bottom: 20px;
+    }
+  
+    #section-about-us-founder:before {
+      width: 300px;
+      height: 300px;
+    }
+  
+    .section-about-us-founder {
+      padding-top: 0 !important;
+    }
+  
+    .section-title p {
+      font-size: 16px;
+      line-height: 22px;
+    }
+  
+    .theme-inner-page .theme-banner-text {
+      padding: 0 40px;
+      bottom: 30px;
+    }
+  
+    .section-footer .container {
+      padding: 0 40px;
+    }
+  
+    /* .theme-banner-text.meet-conversions-detail {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+      height: 125px;
+    } */
+  
+    .know-more-btn span {
+      font-size: 14px;
+    }
+  
+    /* .meet-conversions-img img {
+      height: calc(100vh - 125px);
+    } */
+  
+    #header-primary-menu:before {
+      position: absolute;
+      content: "";
+      background-color: #00A9DE;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0.8;
+      z-index: -1;
+    }
+  
+    .dots {
+      gap: 6px !important;
+    }
+  
+    .dots-left {
+      right: 40px !important;
+    }
+  
+    .dots li a::after {
+      font-size: 16px;
+      line-height: 16px;
+    }
+  
+    #home .scale-element:after,
+    #home .theme-scale-element {
+      right: -6px;
+    }
+  
+    .footer-detail .section-title h2,
+    .section-title h1,
+    .section-title h2 {
+      font-size: 30px;
+      line-height: 38px;
+    }
+  
+    .theme-banner-text {
+      max-width: 700px;
+    }
+  
+    .container {
+      padding: 0 30px;
+    }
+  
+    #back2top svg {
+      width: 36px;
+      height: 36px;
+    }
+  
+    #back2top {
+      width: 36px;
+      height: 36px;
+      bottom: 55px;
+    }
+  
+    .call-btn {
+      width: 36px;
+      height: 36px;
+      bottom: 55px;
+    }
+  
+    .sticky-bottom-form-inner {
+      position: fixed;
+      padding: 0;
+      display: block;
+      bottom: -165px;
+      left: 0;
+      width: 100%;
+      -moz-transition: all 0.3s linear;
+      -ms-transition: all 0.3s linear;
+      -o-transition: all 0.3s linear;
+      -webkit-transition: all 0.3s linear;
+      transition: all 0.3s linear;
+      background-color: #00A9DE;
+      z-index: 999;
+    }
+  
+    .sticky-bottom-form.open .close-form {
+      opacity: 1;
+      background-color: transparent;
+    }
+  
+    .sticky-bottom-form.open .sticky-bottom-form-inner {
+      bottom: 0;
+      left: 0;
+    }
+  
+    .sticky-bottom-form {
+      bottom: auto;
+      left: auto;
+      padding: 0;
+      width: 100%;
+      background: rgb(45 41 38 / 0.9);
+      max-width: 100%;
+      margin: 0 auto;
+      right: 0;
+      position: inherit;
+      z-index: 999 !important;
+    }
+  
+    .sticky-bottom-form .col-form {
+      width: 50%;
+      margin: 0 0 15px !important;
+    }
+  
+    .sticky-bottom-form .col-form.col-form-btn {
+      width: 100%;
+    }
+  
+    .col-form-title {
+      display: inline-block;
+      width: 100%;
+      margin-bottom: 0;
+    }
+  
+    .col-form-title h3 {
+      margin: 0;
+      padding: 10px 12px;
+      color: #ffffff;
+      display: block;
+      cursor: pointer;
+      text-align: center;
+      font-size: 20px;
+      line-height: 24px;
+      border-top: 1px solid rgb(182 223 235);
+      text-transform: uppercase;
+    }
+  
+    .close-form {
+      color: #ffffff;
+      position: absolute;
+      font-size: 22px;
+      line-height: 22px;
+      top: 8px;
+      right: 3px;
+      opacity: 0;
+      cursor: pointer;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .footer-logo {
+      max-width: 300px;
+    }
+  
+    #home .footer-img img {
+      object-position: left;
+    }
+  
+    .project-casestudy-logo img {
+      max-height: 100px;
+      max-width: 100px;
+    }
+  
+    .our-services-col:nth-child(1),
+    .our-services-col:nth-child(3),
+    .our-services-col:nth-child(5),
+    .our-services-col:nth-child(7),
+    .our-services-col:nth-child(9) {
+      border-right: unset;
+    }
+  
+    .our-services-wrapper h4,
+    .our-services-desc h4 {
+      margin-bottom: 15px;
+    }
+  
+    .mb-100 {
+      margin-bottom: 30px;
+    }
+  
+    #home .section-footer .container {
+      padding: 30px 35px 60px 20px;
+    }
+  
+    .project-services-items h5 {
+      margin-bottom: 5px;
+    }
+  
+    /* .project-services-items h5 {
+      margin-bottom: 6px;
+    } */
+  
+    h5 {
+      font-size: 18px;
+      line-height: 24px;
+    }
+  
+    h3 {
+      font-size: 24px;
+      line-height: 30px;
+    }
+  
+    .sticky-btn-enquire {
+      transform: unset;
+      top: unset;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      border: 0;
+      border-top: 1px solid #00A9DE40;
+      border-radius: 0;
+      text-align: center;
+      width: 100%;
+      padding: 10px 0px !important;
+      font-size: 15px !important;
+    }
+  
+    .sticky-btn-enquire.sticky-brochure {
+      top: unset;
+      right: 0;
+      width: 50%;
+      left: unset;
+      border-left: 1px solid #fff;
+    }
+  
+    .section-footer .container {
+      padding: 30px 20px 60px 20px;
+    }
+  
+    .modal-logo img {
+      position: relative;
+      transform: unset;
+      top: unset;
+      left: unset;
+      padding: 10px 30px;
+      height: 60px;
+    }
+  
+    .know-more-btn {
+      padding-bottom: 5px;
+    }
+  
+    .meet-conversions-col {
+      width: 50% !important;
+    }
+  
+    .meet-conversions-img img {
+      height: 50vh;
+    }
+  
+    .thankyou-logo img {
+      height: 40px;
+    }
+  
+    .mb-50 {
+      margin-bottom: 20px;
+    }
+  
+    .theme-block-video-icon {
+      width: 50px;
+      height: 50px;
+    }
+  
+    .project-services-items {
+      margin-bottom: 15px;
+    }
+  
+    .theme-project-detail-page section,
+    .theme-project-detail-page .section {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+  
+    .project-services-col:first-child {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  
+    .project-services-col:last-child {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  
+    .theme-project-detail-page .section-banner {
+      padding-top: 100px;
+    }
+  
+    .contact-img {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+  
+    .contact-us-form-block .mb-6 {
+      margin-bottom: 20px !important;
+    }
+  
+    .contact-us-form-col:last-child {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  
+    .contact-us-form-col:first-child {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  
+    .team-member-img {
+      width: 220px;
+      height: 220px;
+    }
+  
+    .about-us-philosophy-detail {
+      margin-bottom: 0;
+    }
+  
+    .founder-img {
+      max-width: 400px;
+    }
+  
+    #section-about-us-founder:before {
+      width: 200px;
+      height: 200px;
+      right: -50px;
+      bottom: 0;
+    }
+  
+    .title-tagline {
+      font-size: 14px;
+    }
+  
+    .counter-block h3 {
+      font-size: 20px;
+    }
+  
+    .about-us-counter-item:before {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .about-us-counter-cols {
+      margin-bottom: -30px !important;
+    }
+  
+    .about-us-counter-col {
+      width: 50%;
+      flex: 0 0 50%;
+      margin-bottom: 30px;
+    }
+  
+    .contact-office-col {
+      margin-bottom: 20px;
+      padding: 0 10px;
+    }
+  
+    .copyright-bar {
+      margin-top: 15px;
+    }
+  
+    .contact-office-item h3 {
+      font-size: 18px;
+      margin-bottom: 3px;
+    }
+  
+    .contact-office-item span {
+      font-size: 12px;
+    }
+  
+    .columns.contact-office-cols {
+      margin: 0 -10px -20px !important;
+    }
+  
+    .footer-detail .section-title {
+      margin-bottom: 15px;
+    }
+  
+    .copyright-bar {
+      padding-bottom: 0;
+    }
+  
+    .fs-18 {
+      font-size: 14px;
+    }
+  
+    .footer-social-icons .social {
+      justify-content: center;
+    }
+  
+    /* .theme-banner-text.meet-conversions-detail {
+      height: 160px;
+      justify-content: center;
+    } */
+  
+    /* .meet-conversions-img img {
+      height: calc(100vh - 160px);
+    } */
+  
+    /* .theme-modal-card-body {
+      padding: 20px;
+    } */
+  
+    .theme-modal .theme-modal-card {
+      padding: 0;
+    }
+  
+    .modal-col:first-child {
+      border-right: 0;
+      width: 100%;
+      flex: 0 0 100%;
+      border-bottom: 1px solid #00A9DE;
+    }
+  
+    .modal-col:last-child {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  
+    .modal-form {
+      padding: 30px;
+    }
+  
+    .close1,
+    .close {
+      top: 12px;
+      right: 20px;
+    }
+  
+    .sm-form-control {
+      padding: 12px 15px 12px 0;
+    }
+  
+    .modal-title {
+      font-size: 28px;
+    }
+  
+    .yBoxFrame.yBoxImgWrap .yBoxPrevImg::after {
+      left: 10px !important;
+    }
+  
+    .header__menu-link {
+      font-size: 16px;
+    }
+  
+    .yBoxFrame.yBoxImgWrap .yBoxNextImg::after {
+      left: 0;
+    }
+  
+    .copyright-line {
+      display: block;
+      font-size: 0 !important;
+      line-height: 0 !important;
+      margin-bottom: 5px;
+    }
+  
+    .footer-detail .section-title h2,
+    .section-title h1,
+    .section-title h2 {
+      font-size: 24px;
+      line-height: 32px;
+    }
+  
+    .theme-padding {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+  
+    section,
+    .section {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+  
+    .scroll-container section {
+      padding-bottom: 80px;
+    }
+  
+    #register-modal {
+      padding: 30px;
+    }
+  }
+  
+  @media screen and (max-width: 575px) {
+    .footer-logo {
+      max-width: 260px;
+    }
+  
+    #home .footer-img img {
+      position: relative;
+      top: unset;
+      left: unset;
+    }
+  
+    #home .footer-img {
+      height: auto;
+    }
+  
+    #home .section-footer .container {
+      height: auto;
+    }
+  
+    .contact-office-item h4 {
+      font-size: 18px;
+    }
+  
+    /* .contact-office-detail {
+      padding: 20px 0;
+    } */
+  
+    .contact-office-item span br {
+      display: none;
+    }
+  
+    .section-home-project-casestudy .section-title {
+      margin: 10px 0;
+    }
+  
+    .our-services-wrapper h4,
+    .our-services-desc h4 {
+      font-size: 18px;
+    }
+  
+    /* .theme-banner-text.meet-conversions-detail {
+      height: auto;
+      position: relative;
+    } */
+  
+    /* .sticky-btn-enquire {
+      padding: 10px 0px !important;
+      font-size: 14px !important;
+    } */
+  
+    .meet-conversions-img img {
+      height: auto;
+    }
+  
+    .sticky-logo {
+      opacity: 1;
+      visibility: visible;
+      position: relative;
+      top: 0;
+    }
+  
+    .logo-tagline h5,
+    .identify-problem-detail p,
+    .project-services-items p {
+      text-align: justify;
+    }
+  
+    .theme-project-detail-page .section-banner {
+      padding-top: 30px;
+    }
+  
+    .desktop-logo {
+      display: none;
+    }
+  
+    .responsive-logo {
+      display: block;
+    }
+  
+    .our-projects-col {
+      width: 100% !important;
+    }
+  
+    .services-block h4 {
+      font-size: 18px;
+    }
+  
+    .services-block {
+      padding: 20px 0;
+    }
+  
+    .our-team-detail .section-title {
+      margin-bottom: 30px;
+    }
+  
+    .section-footer {
+      padding-top: 0 !important;
+    }
+  
+    .our-team-col {
+      width: 100% !important;
+    }
+  
+    .founder-detail p,
+    .about-us-philosophy-detail p {
+      text-align: justify;
+    }
+  
+    h4 {
+      font-size: 18px;
+    }
+  
+    .theme-padding {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  
+    .theme-before:before,
+    .theme-bg-img:before {
+      opacity: 0.4;
+    }
+  
+    .theme-inner-page .theme-banner-text {
+      padding: 0 20px;
+      bottom: 20px;
+    }
+  
+    .section-footer .theme-bg-img,
+    .section-footer .bg-img {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  
+    .footer-detail .section-title {
+      margin-bottom: 30px;
+    }
+  
+    .contact-office-col {
+      width: 100% !important;
+    }
+  
+    /* .section-footer .theme-bg-img {
+      display: none;
+    }
+  
+    .section-footer {
+      background-color: #2B2A29;
+    } */
+  
+    /* .meet-conversions-col {
+      width: 50% !important;
+    }
+  
+    .meet-conversions-img img {
+      height: auto;
+    } */
+  
+    .meet-conversions-detail .section-title {
+      margin-bottom: 10px !important;
+    }
+  
+    .theme-bg-img,
+    .bg-img {
+      position: relative;
+      top: unset;
+      left: unset;
+    }
+  
+    .scroll-container section {
+      padding: 0;
+    }
+  
+    .theme-banner-text {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: auto;
+      display: block;
+      padding: 20px 25px 20px 20px;
+    }
+  
+    .section-banner {
+      margin-top: 59px;
+    }
+  
+    .footer-detail .section-title h2,
+    .section-title h1,
+    .section-title h2 {
+      font-size: 20px;
+      line-height: 24px;
+    }
+  
+    .section-title p {
+      font-size: 13px;
+      line-height: 20px;
+      text-align: justify;
+    }
+  
+    .footer-detail .section-title p {
+      text-align: center;
+    }
+  
+    #menu-trigger:before {
+      display: none;
+    }
+  
+    .modal-form:before {
+      z-index: 1;
+      right: -40px;
+      width: 100px;
+      height: 100px;
+    }
+  
+    .scroll-container,
+    .scroll-container section {
+      height: auto !important;
+    }
+  
+    body,
+    html {
+      overflow: auto !important;
+    }
+  
+    .insomenu-bars span,
+    .insomenu-bars span:after,
+    .insomenu-bars span:before {
+      background-color: #fff;
+    }
+  
+    
+  
+    .insomenu-bars {
+      right: 20px;
+    }
+  
+    #header-primary-menu {
+      justify-content: start;
+      padding: 30px !important;
+    }
+  
+    .header-menu-logo {
+      top: 100px;
+    }
+  
+    #header1__menu1 {
+      margin-top: 170px;
+    }
+  
+    .tab-list {
+      gap: 10px;
+    }
+  
+    .sticky-bottom-form {
+      display: none !important;
+    }
+  
+    .thankyou-block h1 {
+      font-size: 22px;
+      margin-bottom: 8px;
+    }
+  
+    .thankyou-msg {
+      font-size: 14px !important
+    }
+  
+    #register-modal {
+      padding: 10px;
+    }
+  
+    .theme-modal-card {
+      max-width: 100%;
+    }
+  
+    .theme-modal .theme-modal-card {
+      top: -30px;
+      transform: none;
+      margin-top: 30px;
+    }
+  
+    .theme-modal.is-active .theme-modal-card {
+      top: 0;
+      transform: none;
+      margin-top: 30px;
+    }
+  
+    #back2top {
+      display: none !important;
+    }
+  
+    .theme-logo img {
+      height: 35px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .our-projects-logo {
+      width: 90px;
+      height: 90px;
+    }
+  
+    .contact-office-item h4 {
+      font-size: 16px;
+    }
+  
+    #header-primary-menu {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  
+    .project-casestudy-logo img {
+      max-height: 90px;
+      max-width: 85px;
+    }
+  
+    .our-projects-logo:before {
+      top: -50px;
+    }
+  
+    .our-projects-logo img {
+      max-width: 80px;
+      max-height: 50px;
+    }
+  
+    #header-primary-menu {
+      max-width: 100%;
+    }
+  
+    /* .contact-office-detail {
+      padding-bottom: 20px;
+    } */
+  
+    .footer-logo {
+      max-width: 240px;
+      margin: 0 auto 20px;
+    }
+  
+    .our-services-wrapper h4,
+    .our-services-desc h4 {
+      font-size: 16px;
+      margin-bottom: 6px;
+    }
+  
+    .header-contact-desc a {
+      border-right: 0;
+      display: block;
+    }
+  
+    .logo-tagline h5 {
+      font-size: 14px;
+    }
+  
+    .theme-block-video-icon {
+      width: 40px;
+      height: 40px;
+    }
+  
+    h3 {
+      font-size: 20px;
+      line-height: 28px;
+    }
+  
+    .our-projects-title {
+      font-size: 18px;
+    }
+  
+    .services-block h4 {
+      font-size: 16px;
+      margin-bottom: 5px;
+    }
+  
+    h4 {
+      font-size: 16px;
+    }
+  
+    p {
+      line-height: 20px;
+    }
+  
+    .counter-block h3 {
+      font-size: 18px;
+      line-height: 24px;
+    }
+  
+    .about-us-counter-item:before {
+      width: 60px;
+      height: 60px;
+      top: -5px;
+    }
+  
+    .about-us-counter-item {
+      padding-left: 30px;
+    }
+  
+    body {
+      font-size: 13px;
+    }
+  
+    .header-menu-logo {
+      max-width: 180px;
+    }
+  
+    /* .no-webp #header-primary-menu {
+      background-image: url(../images/bg/menu-bg-md.jpg);
+    }
+  
+    .webp #header-primary-menu {
+      background-image: url(../images/bg/menu-bg-md.webp);
+    } */
+  
+    .modal-logo img {
+      padding: 10px 20px;
+      height: 45px;
+    }
+  
+    .modal-title {
+      font-size: 22px;
+      margin-bottom: 15px;
+    }
+  
+    .theme-btn {
+      padding: 6px 30px;
+      font-size: 12px;
+      line-height: 22px;
+    }
+  
+    .col-form-btn {
+      margin-top: 15px;
+    }
+  
+    ::placeholder,
+    .sm-form-control {
+      font-size: 13px !important;
+    }
+  
+    .close1,
+    .close {
+      top: 4px;
+      right: 10px;
+    }
+  
+    .contact-us-form .column,
+    .modal-form .column {
+      padding: 8px;
+    }
+  
+    .contact-us-form .columns,
+    .modal-form .columns {
+      margin: -8px;
+    }
+  
+    .modal-form {
+      padding: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 420px) {
+    .footer-logo {
+      max-width: 200px;
+    }
+  }
+  
+  @media screen and (max-width: 380px) {
+    h5 {
+      font-size: 16px;
+      line-height: 22px;
+    }
+  }
+  
+  @media screen and (max-width: 360px) {
+    .about-us-counter-col {
+      width: 100%;
+      flex: 0 0 100%;
+    }
+  }
